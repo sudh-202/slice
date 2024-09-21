@@ -9,7 +9,12 @@ module.exports = {
     "./src/**/*.{js,ts,jsx,tsx,mdx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        'geist-sans': ['var(--font-geist-sans)', 'sans-serif'],
+        'quincy': ['var(--font-quincy)', 'sans-serif'],
+      },
+    },
   },
   plugins: [],
 }
