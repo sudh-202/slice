@@ -1,4 +1,4 @@
-import Footer from "@/components/Footer";
+// import Footer from "@/components/Footer";
 import Hero from "@/components/Hero";
 import Info from "@/components/Info";
 import Info1 from "@/components/Info1";
@@ -6,7 +6,7 @@ import Info2 from "@/components/Info2";
 import Info3 from "@/components/Info3";
 import Navbar from "@/components/Navbar";
 
-import Image from "next/image";
+// import Image from "next/image";
 
 export default function Home() {
   return (
